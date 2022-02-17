@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Yudhi, nice to meet you :bowtie:
 
-:computer: I like playing with a code, and analyzing the problem
-:book: I’m currently learning Web Programming and Android
-:money_with_wings: I'm an Investor too, I like investing my money on mutual fund, stock market and crypto
+:computer: I like playing with a code, and analyzing the problem <br>
+:book: I’m currently learning Web Programming and Android <br>
+:money_with_wings: I'm an Investor too, I like investing my money on mutual fund, stock market and crypto <br>
 
 <!--
 **yudhibk/yudhibk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
