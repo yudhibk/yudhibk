@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yudhi, nice to meet you :bowtie:
+### Hi there 👋 <br> I'm Yudhi, Nice to meet you :bowtie:
 
 :computer: I like playing with a code, and analyzing the problem <br>
 :book: I’m currently learning Web Programming and Android <br>
