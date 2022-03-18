@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20.png"/>
+<img src="yudhipw.png"/>
 <hr></hr>
 ### I'm Yudhi, Nice to meet you :bowtie:
 
