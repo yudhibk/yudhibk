@@ -1,4 +1,4 @@
-<img src="yudhipw.png"/>
+<img src="yudhipw.jpg"/>
 <hr></hr>
 ### I'm Yudhi, Nice to meet you :bowtie:
 
