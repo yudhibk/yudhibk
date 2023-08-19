@@ -6,6 +6,6 @@
 - :book: I’m currently learning Web Programming
 - :computer: I’m currently working at "PT. Askara Internal - Indonesia"
 - :wrench: I use daily: `.php` `.js` `.html` `.css` `.xlsx` `.json`
-- :envelope: Reach me: [yudhibk2@gmail.com](mailto:yudhibk2@gmail.com)
+- :envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com)
 - :briefcase: LinkedIn: [linkedin.com/in/yudhi-prasetyo-wibowo](https://id.linkedin.com/in/yudhi-prasetyo-wibowo?_l=en_US)
 - :zap: Fun fact: I like watching movies or anime :sweat_smile:
