@@ -9,3 +9,4 @@
 - :envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com)
 - :briefcase: LinkedIn: [linkedin.com/in/yudhi-prasetyo-wibowo](https://id.linkedin.com/in/yudhi-prasetyo-wibowo?_l=en_US)
 - :zap: Fun fact: I like watching movies or anime :sweat_smile:
+- :athletic_shoe: I like running and playing badminton :badminton:
