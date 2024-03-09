@@ -2,15 +2,13 @@
 <hr></hr>
 
 ### I'm Yudhi, Nice to meet you :bowtie:
-<ul>
-<li>:book: I’m currently learning Web Programming</li>
-<li>:computer: I’m currently working at "PT. Askara Internal - Indonesia"</li>
-<li>:wrench: I use daily: `.php` `.js` `.html` `.css` `.xlsx` `.json`</li>
-<li>:envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com)</li>
-<li>:briefcase: LinkedIn: [linkedin.com/in/yudhi-prasetyo-wibowo](https://id.linkedin.com/in/yudhi-prasetyo-wibowo?_l=en_US)</li>
-<li>:zap: Fun fact: I like watching movies or anime :sweat_smile:</li>
-<li>:athletic_shoe: I like running and playing badminton :badminton:</li>
-</ul>
+- :book: I’m currently learning Web Programming
+- :computer: I’m currently working at "PT. Askara Internal - Indonesia"
+- :wrench: I use daily: `.php` `.js` `.html` `.css` `.xlsx` `.json`
+- :envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com)
+- :briefcase: LinkedIn: [linkedin.com/in/yudhi-prasetyo-wibowo](https://id.linkedin.com/in/yudhi-prasetyo-wibowo?_l=en_US)
+- :zap: Fun fact: I like watching movies or anime :sweat_smile:
+- :athletic_shoe: I like running and playing badminton :badminton:
 ### Github Statistic
 <p align="left">
   <a href="https://github.com/yudhibk">
