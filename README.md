@@ -2,13 +2,13 @@
 <hr></hr>
 
 ### I'm Yudhi, Nice to meet you :bowtie:
-- :book: I’m currently learning Web Programming
-- :computer: I’m currently working at "PT. Askara Internal - Indonesia"
-- :wrench: I use daily: `.php` `.js` `.html` `.css` `.xlsx` `.json`
-- :envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com)
+- :book: I’m currently learning Web Programming & Making the best coffee in the world ☕
+- :wrench: I use daily: `PHP (CI & Laravel)` `ReactJS` `NextJS` `Tailwind CSS` `Bootstrap CSS`
+- :envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com) (for business)
 - :briefcase: LinkedIn: [linkedin.com/in/yudhi-prasetyo-wibowo](https://id.linkedin.com/in/yudhi-prasetyo-wibowo?_l=en_US)
-- :zap: Fun fact: I like watching movies or anime :sweat_smile:
-- :athletic_shoe: I like running and playing badminton :badminton:
+- :zap: Quote: "Indeed, with hardship there is ease" :sweat_smile:
+- :athletic_shoe: I like running [(Strava Link)](https://www.strava.com/athletes/175180101)
+
 ### Github Statistic
 <p align="left">
   <a href="https://github.com/yudhibk">
