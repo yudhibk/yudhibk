@@ -6,7 +6,7 @@
 - :wrench: I use daily: `PHP (CI & Laravel)` `ReactJS` `NextJS` `Tailwind CSS` `Bootstrap CSS`
 - :envelope: Reach me: [yudhi.prasetyo.w@gmail.com](mailto:yudhi.prasetyo.w@gmail.com) (for business)
 - :briefcase: LinkedIn: [linkedin.com/in/yudhi-prasetyo-wibowo](https://id.linkedin.com/in/yudhi-prasetyo-wibowo?_l=en_US)
-- :zap: Quote: "Indeed, with hardship there is ease" :sweat_smile:
+- :zap: Quote: "Indeed, with hardship there is ease"
 - :athletic_shoe: I like running [(Strava Link)](https://www.strava.com/athletes/175180101)
 
 ### Github Statistic
